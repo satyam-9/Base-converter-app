@@ -6,7 +6,8 @@ public class Binary {
 		int num = n;
 		int dec_value = 0;
 
-		// Initializing base
+		// Initializing base 
+		
 		// value to 1, i.e 2^0
 		int base = 1;
 
